@@ -16,11 +16,11 @@ with a growing interest in Data, Artificial Intelligence, and Open Source projec
 ---
 
 ## 🛠️ Tools & Technologies
-- Git
-- GitHub
-- Markdown
+- Git (learning)
+- GitHub (learning)
+- Markdown (learning)
 - VS Code (learning)
-- Python
+- Python (learning)
 ---
 
 ## 🎯 Career Goal
