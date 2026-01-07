@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Brayann Melo
 
-<!--
-**brayann-melo/brayann-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer in training, building a strong foundation in
+version control, collaboration, and clean development workflows using Git and GitHub,
+with a growing interest in Data, Artificial Intelligence, and Open Source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Git fundamentals and version control best practices
+- GitHub workflows (branches, merges, pull requests)
+- Writing clean and meaningful commit messages
+- Repository organization and documentation
+- Fundamentals of programming and data-oriented thinking
+
+---
+
+## 🛠️ Tools & Technologies
+- Git
+- GitHub
+- Markdown
+- VS Code (learning)
+- Python
+---
+
+## 🎯 Career Goal
+My goal is to grow as a software developer with a focus on Data and Artificial Intelligence,
+contributing to Open Source projects and building a solid foundation for real-world,
+data-driven applications.
+
+---
+
+## 📂 Featured Repositories (in progress)
+- 📌 Git fundamentals and practice exercises
+- 📌 Version control workflow examples
+- 📌 Data and automation learning projects
